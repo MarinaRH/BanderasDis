@@ -1,0 +1,18 @@
+body {
+  background: black;
+  color: #ffc107;
+}
+
+.menu {
+  display: block;
+  font-size: 50px;
+  text-align: center;
+}
+
+a {
+  color:#ffc107;
+}
+
+a:hover {
+  color: white;
+}

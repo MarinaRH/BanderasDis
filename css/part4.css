@@ -1,0 +1,12 @@
+p {
+  background: #ffc107;
+  display: inline-block;
+  padding: 10px;
+  margin: 10px;
+  color: black;
+}
+
+.box {
+  background: black;
+  color: white;
+}

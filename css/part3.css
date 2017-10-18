@@ -1,0 +1,17 @@
+.parte3 {
+  display: inline-flex;
+}
+
+p {
+  background: #ffc107;
+  padding: 10px;
+  margin: 10px;
+  height: 100px;
+  width: 200px;
+  color: black;
+}
+
+.box {
+  background: black;
+  color: white;
+}
